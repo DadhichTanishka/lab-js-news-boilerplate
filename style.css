@@ -1,0 +1,21 @@
+.block{
+  width:25vw;
+  height:auto ;
+  border: 2px solid rgb(163, 163, 163);
+  border-radius: 2%;
+  margin: 20px;
+  
+ text-align: center;
+}
+img{
+  width: 20vw;
+  height: 20vh;
+}
+#big{
+  display: flex;
+  flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+body{
+font-size:medium;
+}
